@@ -1,0 +1,252 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 0;	
+
+}
+h1, h2, h3, h4, h5, h6, p {
+	font-family: 'Raleway', sans-serif;
+}
+h1 {
+	font-size: 55px;
+	font-weight: 500;
+}
+h2 {
+	font-size: 40px;
+}
+h3 {
+	font-size: 25px;
+}
+iframe {
+	padding-top: 100px;
+}
+input {
+	font-family: 'Raleway', sans-serif;
+	width: 350px;
+	height: 50px;
+	border: 0px;
+	border-bottom: #000 1px solid;
+}
+button {
+	margin-bottom: 100px;
+	padding: 22px 50px;
+	background: #6E9C9F;
+	color: #fff;
+	border: none;
+	margin-top: 35px;
+}
+.header {
+	padding-top: 45px;
+	background: linear-gradient(to right, #fff 55%, #F1EADC 45%);
+}
+.logo-text {
+	padding-right: 146px;
+}
+.conteiner {
+	margin: 0 auto;
+	width: 1110px;
+}
+.nav-panel {
+	justify-content: space-between;
+	display: flex;
+	align-items: center
+}
+.nav-panel-link {
+	margin-right: 45px;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	color: #000;
+}
+.phone {
+	transition: all 0.5s ease-out;
+	float: right;
+	padding-right: 15.55px;
+}
+.offer {
+	padding-top: 70px;
+	width: 563px;
+}
+.offer-h1-text {
+	font-size: 55px;
+	width: 585px;
+}
+.p-offer {
+	width: 385px;
+	text-align: right;
+}
+.p-offer p {
+	font-size: 20px;
+	font-weight: 400;
+}
+.btn {
+	float: right;
+	align-items: center;
+	padding: 22px 50px;
+	background: #6E9C9F;
+	color: #fff;
+	text-decoration: none;
+} 
+.wrraper {
+	align-items: center;
+	display: flex;
+  	justify-content: space-between;
+}
+.offer-img {
+	padding-top: 45px;
+	background: rgba(241, 234, 220, 1);
+}
+.glav-foto {
+	width: 423px;
+	height: 463px;
+}
+.game-pan {
+	width: 90%;
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+.img-game {
+	width: 222px;
+	height: 300px;
+}
+.game {
+	padding-top: 130px;
+}
+.btn-blue {
+	background: #fff;
+	color: #6E9C9F;
+	border:  #6E9C9F solid;
+	float: none;
+}
+.div-btn {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 10px;
+	padding-bottom: 120px;
+}
+.frame {
+	padding-top: 92px;
+	width: 305px;
+	font-size: 17px;
+}
+.wrraper-photo-gallery {
+	line-height: 140%;
+	padding-top: 45px;
+	padding-bottom: 130px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.wrraper-gallery a {
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	color: #6E9C9F;
+}
+.gallery {
+	padding-top: 130px;
+}
+.img {
+	transition: all 0.5s ease-out;
+	width: 650px;
+}
+.wrraper-gallery {
+	width: 255px;
+}
+.footer {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background: #F1EADC;
+}
+.info {
+	padding-top: 30px;
+	line-height: 140%;
+}
+.wrraper-email {
+	text-align: center;
+	display: flex;
+	align-items: flex-end;
+	flex-direction: column;
+}
+.nav-footer {
+	display: flex;
+	align-items: flex-start;
+}
+.btn-categ {
+	text-decoration: none;
+	text-align: center;
+	padding: 19px 65px;
+	border: #000 2px solid;
+	color: #000;
+
+}
+.dark {
+	background: #000;
+	color: #fff;
+}
+.category {
+	margin-top: 200px;
+	margin-left: 10px;
+}
+.number {
+	display: flex;
+	margin-bottom: 65px;
+}
+.next-btn-wrrap {
+	padding-bottom: 130px;
+	padding-top: 65px;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+}
+.next-btn {
+	padding: 9px 16.5px;
+	background: #000;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	border: #000 1px solid;
+}
+.white {
+	background: #fff;
+	color: #000;
+}
+.about {
+	padding-top: 150px;
+	letter-spacing: 0.02em;
+}
+.about-wrraper {
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+}
+.about-text {
+		width: 540px;
+}
+.img-about {
+	width: 400px;
+}
+.about-btn {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.contact-adres {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	display: flex;
+	justify-content: space-around;
+}
+.form {
+	display: flex;
+	align-items: flex-start;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 440px;
+}
+.sms-button {
+	width: 443px;
+	height: 100px;
+}
