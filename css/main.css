@@ -1,0 +1,42 @@
+a:hover {
+	transition: all 0.5s ease-out;
+	font-size: 20px;
+}
+a{
+	transition: all 0.5s ease-out;
+
+}
+.header {
+	background: #fff;
+}
+.glav-foto:hover {
+	width: 440px;
+	height:  483px;
+	transition: all 0.5s ease-out;
+}
+.glav-foto{
+    width: 423px;
+	height: 463px;
+    transition: all 0.5s ease-out;
+}
+.btn:hover {
+	transition: all 0.5s ease-out;
+	background: #509498;
+}
+.btn-blue:hover {
+	background: #6E9C9F;
+	transition: all 0.5s ease-out;
+	color: #fff;
+}
+.img:hover {
+	transition: all 0.5s ease-out;
+	width: 700px;
+}
+.phone1:hover {
+	transition: all 0.5s ease-out;
+	font-size: 14px;
+
+}
+.phone1 {
+	transition: all 0.5s ease-out;
+}
